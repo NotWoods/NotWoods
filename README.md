@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NotWoods/NotWoods/main/logo_text.svg" alt="Tiger Oakes" width="270" height="36">
+<img src="https://raw.githubusercontent.com/NotWoods/NotWoods/main/logo.svg" alt="Tiger Oakes" width="328" height="72">
 
 Web & Android dev from Hawaii, living in Canada. Working on making PWAs even better. 🌴🍁
 
