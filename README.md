@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/NotWoods/NotWoods/main/logo.svg" alt="Tiger Oakes" width="328" height="72">
 
-Hi, I'm Tiger! I'm a student & developer from Hawaii, living in Canada. 🌴🍁 
+Hi, I'm Tiger! I'm a developer from Hawaii, living in Seattle. 
 
-I've helped build 2 mobile web browsers and hundreds of open source projects, including Firefox and [Maskable.app](https://maskable.app). You can see some more of those [projects](https://tigeroakes.com/projects/) on my website or read my [blog](https://tigeroakes.com/posts/)!
+I've helped build 3 web browsers and hundreds of open source projects, including Firefox for Android and [Maskable.app](https://maskable.app). You can see some more of those [projects](https://tigeroakes.com/projects/) on my website or read my [blog](https://tigeroakes.com/posts/)!
 
 If you’d like to get in touch or if you have questions about my work, don’t hesitate to [contact me](https://tigeroakes.com/#contact).
 
