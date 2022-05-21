@@ -1,6 +1,9 @@
-<img src="https://raw.githubusercontent.com/NotWoods/NotWoods/main/logo.svg" alt="Tiger Oakes" width="328" height="72">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotWoods/NotWoods/main/logo-dark.svg">
+  <img src="https://raw.githubusercontent.com/NotWoods/NotWoods/main/logo.svg" alt="Tiger Oakes" width="328" height="72">
+</picture>
 
-Hi, I'm Tiger! I'm a developer from Hawaii, living in Seattle. 
+Hi, I'm Tiger! I'm a developer from Hawaii, living in Seattle.
 
 I've helped build 3 web browsers and hundreds of open source projects, including Firefox for Android and [Maskable.app](https://maskable.app). You can see some more of those [projects](https://tigeroakes.com/projects/) on my website or read my [blog](https://tigeroakes.com/posts/)!
 
